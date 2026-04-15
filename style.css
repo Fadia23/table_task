@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+th {
+  background-color: #4caf50;
+  color: white;
+  text-align: left;
+  padding: 12px;
+}
+td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
